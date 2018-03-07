@@ -1,0 +1,2 @@
+﻿  Stack_ex.cpp
+f:\cplusplus\c++templates\stack_ex\stack_ex.cpp(64): error C2070: “int []”: 非法的 sizeof 操作数

@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\cplusplus\c++templates\max\main.cpp(51): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  max.vcxproj -> F:\cplusplus\c++templates\Debug\max.exe
+  max.vcxproj -> F:\cplusplus\c++templates\Debug\max.pdb (Full PDB)

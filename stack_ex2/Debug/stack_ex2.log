@@ -1,0 +1,10 @@
+﻿  main.cpp
+f:\cplusplus\c++templates\stack_ex2\main.cpp(79): warning C4305: “参数”: 从“double”到“const float”截断
+f:\cplusplus\c++templates\stack_ex2\main.cpp(80): warning C4305: “参数”: 从“double”到“const float”截断
+f:\cplusplus\c++templates\stack_ex2\main.cpp(81): warning C4305: “参数”: 从“double”到“const float”截断
+f:\cplusplus\c++templates\stack_ex2\main.cpp(83): warning C4305: “参数”: 从“double”到“const float”截断
+f:\cplusplus\c++templates\stack_ex2\main.cpp(63): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  f:\cplusplus\c++templates\stack_ex2\main.cpp(85): note: 参见对正在编译的函数 模板 实例化“Stack<int> &Stack<int>::operator =<float>(const Stack<float> &)”的引用
+  f:\cplusplus\c++templates\stack_ex2\main.cpp(85): note: 参见对正在编译的函数 模板 实例化“Stack<int> &Stack<int>::operator =<float>(const Stack<float> &)”的引用
+  stack_ex2.vcxproj -> F:\cplusplus\c++templates\Debug\stack_ex2.exe
+  stack_ex2.vcxproj -> F:\cplusplus\c++templates\Debug\stack_ex2.pdb (Full PDB)
